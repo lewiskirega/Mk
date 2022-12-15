@@ -1,0 +1,62 @@
+.main{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: bisque;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+
+}
+.img-l{
+    display: block;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 5px white;
+    border-radius: 20px;
+    
+}
+.resume{
+    justify-content: center;
+
+}
+.body-wrapper{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(government-tech-insider.webp);
+    }
+.ul{
+    text-align: left;
+    font-size: medium;
+    font-weight: lighter;
+    font-style: normal;
+}
+h1{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color: blue;
+}
+.button-e{
+    border: solid 2px red;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: medium;
+    font-weight: lighter;
+    background-color: aliceblue;
+}
+.button{
+    text-align: left;
+    padding: 20px;
+
+}
+h2{
+    text-align: center;
+    font-size: medium;
+    font-weight: lighter;
+}
